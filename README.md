@@ -1,4 +1,4 @@
-# patika_html_homwork_1
+# patika_html_homework_1
 
  [Kodluyoruz](https://app.patika.dev)
 
